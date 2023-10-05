@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Haihan Zhang"
+title                    : "PhD student"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Haihan Zhang"
 description              : &description "personal description"
 url                      : https://zhhjkxyyc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
