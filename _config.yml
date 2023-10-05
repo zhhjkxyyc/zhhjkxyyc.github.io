@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Haihan Zhang"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -237,13 +237,13 @@ defaults:
       share: true
       comment: true
   # _talks
-   #- scope:
-    #   path: ""
-    #   type: talks
-   #  values:
- #      layout: talk
-    #   author_profile: true
- #      share: true
+  - scope:
+      path: ""
+      type: talks
+  values:
+      layout: talk
+      author_profile: true
+      share: true
       
       
 
