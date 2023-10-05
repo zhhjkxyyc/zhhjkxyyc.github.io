@@ -87,16 +87,16 @@ author:
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "1146795832@qq.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+ #  facebook         :
   foursquare       :
-  github           : "academicpages"
+ #  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
