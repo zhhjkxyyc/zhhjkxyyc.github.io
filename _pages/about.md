@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I’m a second-year Ph.D.student in the Department of Computer Science and Technology, Nanjing University, supervised by professor Haipeng Dai.
+I’m a second-year Ph.D student in the Department of Computer Science and Technology, Nanjing University, supervised by professor Haipeng Dai.
 
 Reseach
 ======
