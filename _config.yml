@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "PhD student"
+title                    : "Haihan Zhang / PhD student"
 title_separator          : "-"
 name                     : &name "Haihan Zhang"
 description              : &description "personal description"
@@ -56,12 +56,12 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-#twitter:
- # username               : &twitter
-#facebook:
- # username               :
-#  app_id                 :
-#  publisher              :
+twitter:#
+  username               :# &twitter
+facebook:#
+  username               :#
+  app_id                 :#
+  publisher              :#
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Haihan Zhang"
   avatar           : "profile.png"
-  #bio              : "Your biography for the left-hand sidebar"
-  #location         : "Location"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "1146795832@qq.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -94,27 +94,27 @@ author:
   codepen          :
   dribbble         :
   flickr           :
- #  facebook         :
+  facebook         :#
   foursquare       :
- #  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :# "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
-  weibo            :
+  weibo            :#
   xing             :
-  youtube          :
-  wikipedia        :
+  youtube          :#
+  wikipedia        :#
 
 
 # Reading Files
@@ -237,13 +237,13 @@ defaults:
       share: true
       comment: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-  values:
-      layout: talk
-      author_profile: true
-      share: true
+   #- scope:
+    #   path: ""
+    #   type: talks
+   #  values:
+ #      layout: talk
+    #   author_profile: true
+ #      share: true
       
       
 
